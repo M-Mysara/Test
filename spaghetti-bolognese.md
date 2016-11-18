@@ -1,8 +1,8 @@
 # Spaghetti Bolognese
 
-## Combines With
-
-This dish can be combined with tomato soup and bread for an excellent and tasty experience.
+## Combines With:
+-	tomato soup and bread for an excellent and tasty experience.
+-	"Jalapeno Poppers".
 
 ## Ingredients
 
