@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 36 ounces of ground beef
+- 48~64 ounces of ground beef
 - 1 egg, beaten
 - 3/4 cup dry bread crumbs
 - 3 tablespoons evaporated milk
