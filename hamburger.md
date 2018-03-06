@@ -2,7 +2,11 @@
 
 ## Ingredients
 
+<<<<<<< HEAD
 - 48~64 ounces of ground beef
+=======
+- 5 pounds ground beef
+>>>>>>> mohamed
 - 1 egg, beaten
 - 3/4 cup dry bread crumbs
 - 3 tablespoons evaporated milk
